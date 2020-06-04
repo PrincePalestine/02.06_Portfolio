@@ -19,7 +19,7 @@ header:nth-of-type(1){
 }
 
 /*Bild lässt sich nicht zentrieren*/
-img:nth-of-type(1){
+div img:nth-of-type(1){
     height: 50%;
     width: 40%;
     margin-top: 0%;
